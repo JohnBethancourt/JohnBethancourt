@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnBethancourt
 - 👀 I’m interested in Swift, SwiftUI, Pickleball.
-- 📚 I’m currently learning blockchain tech.
+- 📚 I’m currently learning Bitcoin crypto 
 - 🐥 https://twitter.com/BethancourtJohn
 
 <!---
